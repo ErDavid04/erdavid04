@@ -98,18 +98,13 @@ Soy **David Garrido**, desarrollador web de 21 años apasionado por la tecnolog�
 
 Estoy siempre abierto a nuevas oportunidades, colaboraciones o simplemente a conectar con otros desarrolladores. ¡No dudes en contactarme!
 
-📧 **Email:** [tucorreo@ejemplo.com](mailto:davidgarridosuarez10@gmail.com)  
+📧 **Email:** [davidgarridosuarez10@gmail.com](mailto:davidgarridosuarez10@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/erdavid04](https://linkedin.com/in/erdavid04)  
 🌐 **Portafolio Web:** [erdavid04.github.io](https://erdavid04.github.io/)
 
 ---
 
-## ⚡ Datos curiosos
-
-```javascript
-const david = {
-  pronombres: "Él/Él",
-  pasatiempos: ["🎮 Gaming", "⚽ Fútbol", "💻 Open Source"],
-  metaActual: "Dominar React y Node.js",
-  cafe: "☕ Esencial para codificar"
-};
+<p align="center">
+<i>Última actualización: Mayo 2026</i><br>
+👁️ Gracias por visitar mi perfil. ¡Espero que volvamos a conectar pronto!
+</p>
