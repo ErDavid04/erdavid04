@@ -22,10 +22,10 @@ Soy **David Garrido**, desarrollador web de 21 años apasionado por la tecnolog�
 
 ## 🎓 Formación Académica
 
-| Título | Institución | Año |
+| Título | Centro | Año |
 |--------|-------------|-----|
-| **Técnico Superior en DAW**<br>Desarrollo de Aplicaciones Web | Centro de Formación Profesional | 2024 - 2026 |
-| **Técnico Medio en SMR**<br>Sistemas Microinformáticos y Redes | Centro de Formación Profesional | 2022 - 2024 |
+| **Grado Superior en DAW**<br>Desarrollo de Aplicaciones Web | IES La Marisma | 2024 - 2026 |
+| **Grado Medio en SMR**<br>Sistemas Microinformáticos y Redes | IES La Marisma | 2022 - 2024 |
 
 ---
 
