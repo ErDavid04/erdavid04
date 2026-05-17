@@ -47,19 +47,23 @@ Me gusta construir proyectos con una base sólida, cuidando el diseño, el rendi
 
 ### Lenguajes
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,java,bash\&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,py,angular,laravel,php\&theme=dark)](https://skillicons.dev)
 
 ### Frontend & Frameworks
 
-[![Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,vite\&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bootstrap,react,vite,tailwind\&theme=dark)](https://skillicons.dev)
 
 ### Backend & Herramientas
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,git,github,vscode\&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nodejs,git,github,vscode,eclipse\&theme=dark)](https://skillicons.dev)
+
+### Otros
+
+[![Skills](https://skillicons.dev/icons?i=wordpress,ps,pr,ai,discord,svg\&theme=dark)](https://skillicons.dev)
 
 ### Sistemas & Redes
 
-[![Skills](https://skillicons.dev/icons?i=linux,windows\&theme=dark)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=windows,linux,mint\&theme=dark)](https://skillicons.dev)
 
 </div>
 
